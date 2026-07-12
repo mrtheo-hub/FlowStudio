@@ -116,7 +116,7 @@ local function __load_script(url: string): boolean
 
 	if not success then
 		warn("[loader] failed:", result)
-		__notify("euphoria loader", "failed to load script")
+		__notify("Flow Hub loader", "failed to load script")
 		return false
 	end
 
