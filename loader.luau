@@ -16,11 +16,11 @@ type loader_config = {
 
 --@list_game_loaders
 local ___loaders: { [number]: loader_config } = {
-	[6701277882] = {
-		name    = "fish it",
-		url     = "https://luaegis.net/scripts/v4/loaders/8686cf63-8b4b-4537-ad62-46370cd123c9.lua",
+	[79268393072444] = {
+		name    = "Sell Lemons",
+		url     = "https://luaegis.net/scripts/v4/loaders/f701848f-3962-41d0-8d07-43021d728906.lua",
 		version = "1.0.0",
-		author  = "euphoria",
+		author  = "Theo",
 	},
     [2640407187] = {
         name    = "cedit",
